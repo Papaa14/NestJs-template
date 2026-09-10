@@ -1,6 +1,6 @@
-# E-Commerce Backend
+# NESTJS + POSTGRESQL 
 
-A NestJS + Prisma backend for an e-commerce platform, using PostgreSQL for data storage and Nginx as a reverse proxy. Built with JWT authentication, role-based access, and a REST API under `/api/v1`.
+A NestJS + Prisma backend TEMPLATE, using PostgreSQL for data storage and Nginx as a reverse proxy. Built with JWT authentication, role-based access, and a REST API under `/api/v1`.
 
 ## Tech Stack
 
